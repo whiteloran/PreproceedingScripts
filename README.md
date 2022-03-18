@@ -1,2 +1,2 @@
 # PreproceedingScripts
-Python scripts to preproceed dirty data.
+Python scripts to pre-process dirty data.
